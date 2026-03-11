@@ -1,0 +1,2486 @@
+{
+  "Vs_Vs": {
+    "name": "L’Architecte",
+    "dominant": "Vs",
+    "secondary": "Vs",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Visionnaire",
+    "description": "L’Architecte combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Architecte cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Architecte progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Architecte apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Architecte a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Vs_Cq": {
+    "name": "Le Stratège",
+    "dominant": "Vs",
+    "secondary": "Cq",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Conquérant",
+    "description": "Le Stratège combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Stratège cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation",
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision",
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Stratège progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Stratège apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Stratège a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Vs_Bv": {
+    "name": "L’Inspirateur",
+    "dominant": "Vs",
+    "secondary": "Bv",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Bienveillant",
+    "description": "L’Inspirateur combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Inspirateur cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation",
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision",
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Inspirateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Inspirateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Inspirateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Vs_Fb": {
+    "name": "L’Analyste stratégique",
+    "dominant": "Vs",
+    "secondary": "Fb",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Fiable",
+    "description": "L’Analyste stratégique combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Analyste stratégique cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation",
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision",
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Analyste stratégique progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Analyste stratégique apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Analyste stratégique a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Vs_Gt": {
+    "name": "Le Bâtisseur",
+    "dominant": "Vs",
+    "secondary": "Gt",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Garant",
+    "description": "Le Bâtisseur combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Bâtisseur cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation",
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision",
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Bâtisseur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Bâtisseur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Bâtisseur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Vs_Sp": {
+    "name": "L’Explorateur",
+    "dominant": "Vs",
+    "secondary": "Sp",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Spontané",
+    "description": "L’Explorateur combine une dominante visionnaire qui voit loin, cherche le sens et relie les actions à une trajectoire plus large avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de projection puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Explorateur cherche d’abord à voit loin, cherche le sens et relie les actions à une trajectoire plus large. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation",
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "vision",
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut surinvestir l’idée et perdre le contact avec le rythme réel.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir impatient avec ce qui semble lent ou limité.",
+      "Niveau 3 — rigidification : en tension forte, peut vouloir imposer une direction sans suffisamment écouter le terrain.",
+      "Niveau 4 — dérive : en dérive, peut se réfugier dans la projection ou la critique du présent."
+    ],
+    "regulation": [
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles",
+      "prendre un temps d’écoute du terrain avant de décider",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Fiable",
+      "Garant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Garant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Explorateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de projection puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut voir loin, lancer une vision, donner du sens ou relier plusieurs enjeux. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison visionnaire + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Explorateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, garant et peut se tendre face à des fonctionnements perçus comme trop garants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir projection au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à visionnaire pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Explorateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Vs": {
+    "name": "Le Pionnier",
+    "dominant": "Cq",
+    "secondary": "Vs",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Le Pionnier combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Pionnier cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement",
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage",
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Pionnier progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Pionnier apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Pionnier a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Cq": {
+    "name": "Le Performeur",
+    "dominant": "Cq",
+    "secondary": "Cq",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Conquérant",
+    "description": "Le Performeur combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Performeur cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Performeur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Performeur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Performeur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Bv": {
+    "name": "Le Leader mobilisateur",
+    "dominant": "Cq",
+    "secondary": "Bv",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Le Leader mobilisateur combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Leader mobilisateur cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement",
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage",
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Leader mobilisateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Leader mobilisateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Leader mobilisateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Fb": {
+    "name": "Le Compétiteur méthodique",
+    "dominant": "Cq",
+    "secondary": "Fb",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Fiable",
+    "description": "Le Compétiteur méthodique combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Compétiteur méthodique cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement",
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage",
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Compétiteur méthodique progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Compétiteur méthodique apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Compétiteur méthodique a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Gt": {
+    "name": "Le Capitaine",
+    "dominant": "Cq",
+    "secondary": "Gt",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Garant",
+    "description": "Le Capitaine combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Capitaine cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement",
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage",
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Capitaine progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Capitaine apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Capitaine a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Cq_Sp": {
+    "name": "Le Challenger",
+    "dominant": "Cq",
+    "secondary": "Sp",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Spontané",
+    "description": "Le Challenger combine une dominante conquérant qui avance, tranche et transforme vite l’intention en mouvement avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de action puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Challenger cherche d’abord à avance, tranche et transforme vite l’intention en mouvement. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement",
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "résultat",
+      "engagement",
+      "courage",
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut accélérer avant d’avoir tout vérifié.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus directif et moins disponible à la nuance.",
+      "Niveau 3 — rigidification : en tension forte, peut confondre intensité et efficacité.",
+      "Niveau 4 — dérive : en dérive, peut mettre une pression excessive sur soi ou sur les autres."
+    ],
+    "regulation": [
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion",
+      "réintroduire une respiration entre pression et action",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Fiable"
+    ],
+    "lessCompatible": [
+      "Bienveillant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Challenger progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de action puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut agir, décider, prendre l’initiative et supporter la pression de l’action. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison conquérant + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Challenger apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop bienveillants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir action au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à conquérant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Challenger a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Vs": {
+    "name": "Le Guide",
+    "dominant": "Bv",
+    "secondary": "Vs",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Le Guide combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Guide cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance",
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance",
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Guide progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Guide apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Guide a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Cq": {
+    "name": "Le Protecteur actif",
+    "dominant": "Bv",
+    "secondary": "Cq",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Conquérant",
+    "description": "Le Protecteur actif combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Protecteur actif cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance",
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance",
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Protecteur actif progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Protecteur actif apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Protecteur actif a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Bv": {
+    "name": "Le Médiateur",
+    "dominant": "Bv",
+    "secondary": "Bv",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Le Médiateur combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Médiateur cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Médiateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Médiateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Médiateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Fb": {
+    "name": "L’Accompagnant",
+    "dominant": "Bv",
+    "secondary": "Fb",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Fiable",
+    "description": "L’Accompagnant combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Accompagnant cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance",
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance",
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Accompagnant progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Accompagnant apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Accompagnant a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Gt": {
+    "name": "Le Soutien",
+    "dominant": "Bv",
+    "secondary": "Gt",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Garant",
+    "description": "Le Soutien combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Soutien cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance",
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance",
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Soutien progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Soutien apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Soutien a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Bv_Sp": {
+    "name": "L’Animateur",
+    "dominant": "Bv",
+    "secondary": "Sp",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Spontané",
+    "description": "L’Animateur combine une dominante bienveillant qui capte les personnes, l’ambiance et la qualité du lien humain avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de relation puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Animateur cherche d’abord à capte les personnes, l’ambiance et la qualité du lien humain. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance",
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "confiance",
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut trop absorber les émotions de l’environnement.",
+      "Niveau 2 — surcharge : sous surcharge, peut éviter les confrontations pourtant nécessaires.",
+      "Niveau 3 — rigidification : en tension forte, peut s’oublier pour préserver la paix.",
+      "Niveau 4 — dérive : en dérive, peut se fatiguer à vouloir porter tout le monde."
+    ],
+    "regulation": [
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité",
+      "demander de l’aide au lieu de tout absorber",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Garant",
+      "Fiable",
+      "Spontané"
+    ],
+    "lessCompatible": [
+      "Conquérant"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Animateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de relation puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la qualité du lien, la coopération et la confiance font gagner du temps et de l’énergie. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison bienveillant + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Animateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils garant, fiable et peut se tendre face à des fonctionnements perçus comme trop conquérants lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir relation au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à bienveillant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Animateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Vs": {
+    "name": "Le Chercheur",
+    "dominant": "Fb",
+    "secondary": "Vs",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Visionnaire",
+    "description": "Le Chercheur combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Chercheur cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement",
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse",
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Chercheur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Chercheur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Chercheur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Cq": {
+    "name": "L’Optimiseur",
+    "dominant": "Fb",
+    "secondary": "Cq",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Conquérant",
+    "description": "L’Optimiseur combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Optimiseur cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement",
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse",
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Optimiseur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Optimiseur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Optimiseur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Bv": {
+    "name": "Le Conseiller",
+    "dominant": "Fb",
+    "secondary": "Bv",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Bienveillant",
+    "description": "Le Conseiller combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Conseiller cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement",
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse",
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Conseiller progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Conseiller apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Conseiller a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Fb": {
+    "name": "L’Expert",
+    "dominant": "Fb",
+    "secondary": "Fb",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Fiable",
+    "description": "L’Expert combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Expert cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Expert progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Expert apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Expert a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Gt": {
+    "name": "L’Ingénieur",
+    "dominant": "Fb",
+    "secondary": "Gt",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Garant",
+    "description": "L’Ingénieur combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Ingénieur cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement",
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse",
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Ingénieur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Ingénieur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Ingénieur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Fb_Sp": {
+    "name": "L’Inventeur",
+    "dominant": "Fb",
+    "secondary": "Sp",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Spontané",
+    "description": "L’Inventeur combine une dominante fiable qui observe, compare, vérifie et cherche à comprendre ce qui est juste avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de analyse puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Inventeur cherche d’abord à observe, compare, vérifie et cherche à comprendre ce qui est juste. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "analyse fine",
+      "précision",
+      "discernement",
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "justesse",
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut ralentir pour chercher à tout comprendre.",
+      "Niveau 2 — surcharge : sous surcharge, peut devenir plus critique ou perfectionniste.",
+      "Niveau 3 — rigidification : en tension forte, peut hésiter à agir sans garanties suffisantes.",
+      "Niveau 4 — dérive : en dérive, peut se couper de l’élan et rester dans l’analyse."
+    ],
+    "regulation": [
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable",
+      "choisir un critère simple pour décider",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Garant",
+      "Bienveillant"
+    ],
+    "lessCompatible": [
+      "Spontané"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Inventeur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de analyse puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où la précision, l’observation et la compréhension fine évitent les erreurs coûteuses. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison fiable + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Inventeur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, garant et peut se tendre face à des fonctionnements perçus comme trop spontanés lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir analyse au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à fiable pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Inventeur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Vs": {
+    "name": "Le Planificateur",
+    "dominant": "Gt",
+    "secondary": "Vs",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Le Planificateur combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Planificateur cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités",
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre",
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Planificateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Planificateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Planificateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Cq": {
+    "name": "Le Coordinateur",
+    "dominant": "Gt",
+    "secondary": "Cq",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Conquérant",
+    "description": "Le Coordinateur combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Coordinateur cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités",
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre",
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Coordinateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Coordinateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Coordinateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Bv": {
+    "name": "Le Protecteur",
+    "dominant": "Gt",
+    "secondary": "Bv",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Le Protecteur combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Protecteur cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités",
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre",
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Protecteur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Protecteur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Protecteur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Fb": {
+    "name": "Le Contrôleur",
+    "dominant": "Gt",
+    "secondary": "Fb",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Fiable",
+    "description": "Le Contrôleur combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Contrôleur cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités",
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre",
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Contrôleur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Contrôleur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Contrôleur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Gt": {
+    "name": "Le Gardien",
+    "dominant": "Gt",
+    "secondary": "Gt",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Garant",
+    "description": "Le Gardien combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Gardien cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Gardien progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Gardien apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Gardien a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Gt_Sp": {
+    "name": "L’Organisateur créatif",
+    "dominant": "Gt",
+    "secondary": "Sp",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Spontané",
+    "description": "L’Organisateur créatif combine une dominante garant qui structure, sécurise et donne un cadre stable à l’action avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de structure puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Organisateur créatif cherche d’abord à structure, sécurise et donne un cadre stable à l’action. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités",
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "sécurité",
+      "responsabilité",
+      "ordre",
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se rigidifier autour des procédures.",
+      "Niveau 2 — surcharge : sous surcharge, peut vivre l’imprévu comme une menace inutile.",
+      "Niveau 3 — rigidification : en tension forte, peut chercher à tout contrôler pour retrouver de la sécurité.",
+      "Niveau 4 — dérive : en dérive, peut fermer la porte à l’adaptation."
+    ],
+    "regulation": [
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation",
+      "séparer sécurité utile et contrôle excessif",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Fiable",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Visionnaire"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Organisateur créatif progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de structure puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut tenir un cadre, fiabiliser l’exécution et rendre une dynamique durable. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison garant + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Organisateur créatif apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils fiable, bienveillant et peut se tendre face à des fonctionnements perçus comme trop visionnaires lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir structure au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à garant pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Organisateur créatif a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Vs": {
+    "name": "L’Innovateur",
+    "dominant": "Sp",
+    "secondary": "Vs",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Visionnaire",
+    "description": "L’Innovateur combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire visionnaire qui colore son style en gardant une lecture d’ensemble et des perspectives d’avenir. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers projection.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Innovateur cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire visionnaire nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : en gardant une lecture d’ensemble et des perspectives d’avenir. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition",
+      "capacité à donner du sens",
+      "lecture d’ensemble",
+      "anticipation"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "sens",
+      "avenir",
+      "vision"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "revenir à trois priorités concrètes",
+      "transformer l’intention en étapes visibles"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire visionnaire l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Innovateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à projection.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + visionnaire crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Innovateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Innovateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Cq": {
+    "name": "L’Aventurier",
+    "dominant": "Sp",
+    "secondary": "Cq",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Conquérant",
+    "description": "L’Aventurier combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire conquérant qui colore son style avec une mise en mouvement directe et assumée. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers action.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Aventurier cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire conquérant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une mise en mouvement directe et assumée. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition",
+      "mise en action rapide",
+      "courage décisionnel",
+      "dépassement"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "résultat",
+      "engagement",
+      "courage"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "ralentir avant de trancher",
+      "distinguer urgence réelle et impulsion"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire conquérant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Aventurier progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à action.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + conquérant crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Aventurier apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Aventurier a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Bv": {
+    "name": "Le Dynamiseur",
+    "dominant": "Sp",
+    "secondary": "Bv",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Bienveillant",
+    "description": "Le Dynamiseur combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire bienveillant qui colore son style avec une attention réelle aux personnes et à la cohésion. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers relation.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Dynamiseur cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire bienveillant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une attention réelle aux personnes et à la cohésion. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition",
+      "écoute authentique",
+      "soutien relationnel",
+      "création de confiance"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "respect",
+      "entraide",
+      "confiance"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "nommer ses propres besoins",
+      "oser un cadre clair sans culpabilité"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire bienveillant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Dynamiseur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à relation.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + bienveillant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Dynamiseur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Dynamiseur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Fb": {
+    "name": "L’Expérimentateur",
+    "dominant": "Sp",
+    "secondary": "Fb",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Fiable",
+    "description": "L’Expérimentateur combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire fiable qui colore son style avec une vigilance analytique et un goût pour la précision. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers analyse.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, L’Expérimentateur cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire fiable nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une vigilance analytique et un goût pour la précision. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition",
+      "analyse fine",
+      "précision",
+      "discernement"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "vérité",
+      "qualité",
+      "justesse"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "passer du comprendre au tester",
+      "accepter un niveau d’incertitude raisonnable"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire fiable l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, L’Expérimentateur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à analyse.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + fiable crée de la valeur durable.",
+    "relationships": "Relationnellement, L’Expérimentateur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, L’Expérimentateur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Gt": {
+    "name": "Le Réinventeur",
+    "dominant": "Sp",
+    "secondary": "Gt",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Garant",
+    "description": "Le Réinventeur combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire garant qui colore son style avec un besoin de cadre clair et de méthode. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers structure.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Réinventeur cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire garant nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec un besoin de cadre clair et de méthode. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition",
+      "organisation",
+      "fiabilité",
+      "sens des responsabilités"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan",
+      "sécurité",
+      "responsabilité",
+      "ordre"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "garder le cadre essentiel mais assouplir le reste",
+      "prévoir une marge d’adaptation"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire garant l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Réinventeur progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à structure.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + garant crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Réinventeur apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Réinventeur a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  },
+  "Sp_Sp": {
+    "name": "Le Créatif",
+    "dominant": "Sp",
+    "secondary": "Sp",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Spontané",
+    "description": "Le Créatif combine une dominante spontané qui ouvre des possibles, improvise et apporte de la fraîcheur dans les situations avec une secondaire spontané qui colore son style avec une touche d’originalité, de souplesse et d’essai. Ce profil lit naturellement les situations par le prisme de créativité puis les exprime à travers créativité.",
+    "identityParagraphs": [
+      "Dans sa manière spontanée d’aborder les situations, Le Créatif cherche d’abord à ouvre des possibles, improvise et apporte de la fraîcheur dans les situations. Cette première impulsion crée une signature mentale reconnaissable : le profil veut comprendre où aller, ce qu’il faut faire, comment protéger le lien, vérifier le réel, sécuriser le cadre ou ouvrir de nouvelles options, selon son énergie dominante.",
+      "La secondaire spontané nuance ensuite le style. Elle dit comment la personne agit quand elle est à l’aise : avec une touche d’originalité, de souplesse et d’essai. C’est souvent cette combinaison qui explique pourquoi deux personnes ayant une même dominante ne donnent pas du tout la même impression sur le terrain.",
+      "Au quotidien, ce profil fonctionne mieux lorsqu’il peut mobiliser sa dominante sans renier sa secondaire. Lorsqu’il est obligé de fonctionner trop longtemps à l’inverse de ses préférences, il peut perdre de l’élan, de la clarté ou de la qualité relationnelle."
+    ],
+    "strengths": [
+      "créativité pratique",
+      "adaptabilité",
+      "intuition"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "élan"
+    ],
+    "stressStages": [
+      "Niveau 1 — tension légère : quand la pression monte, peut se disperser dans trop d’options.",
+      "Niveau 2 — surcharge : sous surcharge, peut changer trop vite de cap.",
+      "Niveau 3 — rigidification : en tension forte, peut fuir la contrainte ou l’effort répétitif.",
+      "Niveau 4 — dérive : en dérive, peut abandonner un cadre pourtant utile."
+    ],
+    "regulation": [
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer",
+      "s’appuyer sur un rythme simple et répétable",
+      "revenir à une seule priorité à la fois",
+      "terminer avant de relancer"
+    ],
+    "compatible": [
+      "Visionnaire",
+      "Bienveillant",
+      "Conquérant"
+    ],
+    "lessCompatible": [
+      "Fiable"
+    ],
+    "sport": "Dans le sport, ce profil performe particulièrement bien dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Sa secondaire spontané l’aide à affiner sa manière d’entrer dans l’effort, de communiquer en équipe et de gérer les moments charnières d’une compétition.",
+    "studies": "Dans les études, Le Créatif progresse lorsqu’il comprend comment apprendre en respectant sa logique dominante. Il gagne à utiliser sa force de créativité puis à stabiliser son fonctionnement grâce à créativité.",
+    "work": "Dans le travail, ce profil donne le meilleur de lui-même dans les contextes où il faut explorer, s’adapter, inventer et redonner de l’élan. Il devient particulièrement utile lorsqu’on lui confie une zone où sa combinaison spontané + spontané crée de la valeur durable.",
+    "relationships": "Relationnellement, Le Créatif apprécie les personnes qui comprennent sa manière de fonctionner sans la caricaturer. Il se sent souvent nourri par des profils visionnaire, bienveillant et peut se tendre face à des fonctionnements perçus comme trop fiables lorsqu’ils ne sont pas régulés.",
+    "blindspots": [
+      "Surinvestir créativité au détriment d’un autre besoin essentiel.",
+      "Oublier que sa force naturelle n’est pas universelle chez les autres.",
+      "Interpréter le stress d’autrui avec sa propre grille de lecture."
+    ],
+    "development": [
+      "Développer davantage la compétence opposée à spontané pour gagner en souplesse.",
+      "Apprendre à reconnaître plus tôt les premiers signaux de surcharge.",
+      "Construire un rituel simple de retour au calme compatible avec son style."
+    ],
+    "a4p": {
+      "lucidite": "Pour la lucidité, Le Créatif a intérêt à identifier ce qu’il voit très bien naturellement et ce qu’il néglige lorsqu’il va vite.",
+      "regulation": "Pour la régulation, la clé est de revenir à des gestes simples : respiration, recentrage, clarification de priorité, parole juste.",
+      "engagement": "Pour l’engagement, ce profil gagne quand il relie son effort à une raison claire et à un objectif concret.",
+      "autonomie": "Pour l’autonomie, il progresse lorsqu’il sait reproduire seul ses conditions de stabilité mentale."
+    }
+  }
+}

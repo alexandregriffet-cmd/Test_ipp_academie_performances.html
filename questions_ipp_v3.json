@@ -1,0 +1,1822 @@
+[
+  {
+    "id": 1,
+    "text": "Ton équipe prépare un match important ce week-end.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me projette sur ce que ce rendez-vous peut représenter pour la suite de la saison."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me focalise sur ce que je dois faire pour être décisif dans l’action."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille à ce que l’équipe reste soudée et mentalement engagée."
+      },
+      {
+        "k": "Fb",
+        "label": "Je repère ce qui a réellement manqué sur nos dernières séquences utiles."
+      },
+      {
+        "k": "Gt",
+        "label": "Je vérifie que notre organisation et nos repères de jeu sont clairs."
+      },
+      {
+        "k": "Sp",
+        "label": "Je propose une variation qui peut surprendre positivement l’adversaire."
+      }
+    ],
+    "mirrorOf": 53
+  },
+  {
+    "id": 2,
+    "text": "Tu dois rendre un dossier important dans peu de temps.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je relie ce travail à l’objectif plus large que je veux atteindre."
+      },
+      {
+        "k": "Cq",
+        "label": "Je commence par traiter ce qui me fera gagner le plus de points."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche un appui ou un rythme de travail qui me fasse tenir moralement."
+      },
+      {
+        "k": "Fb",
+        "label": "Je passe en revue les notions pour voir exactement ce que je maîtrise ou non."
+      },
+      {
+        "k": "Gt",
+        "label": "Je construis un planning précis pour ne pas me disperser."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une méthode d’apprentissage plus vivante ou plus originale."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Un projet collectif démarre mais tout n’est pas encore clair.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Tu reçois une critique sur quelque chose que tu as fait sérieusement.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche ce que ce retour peut m’apprendre pour progresser sur la durée."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite de ce que je vais corriger concrètement."
+      },
+      {
+        "k": "Bv",
+        "label": "Je prends aussi en compte la relation et l’intention de la personne."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie ce qui est exact, flou ou discutable dans ce retour."
+      },
+      {
+        "k": "Gt",
+        "label": "Je transforme la critique en points de réglage précis."
+      },
+      {
+        "k": "Sp",
+        "label": "Je m’en sers pour essayer une autre manière de faire."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Tu viens de faire une erreur dans un moment important.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me demande ce que cette erreur peut m’enseigner pour la prochaine fois."
+      },
+      {
+        "k": "Cq",
+        "label": "Je cherche à me remettre immédiatement dans l’action juste."
+      },
+      {
+        "k": "Bv",
+        "label": "Je m’appuie sur le lien et le soutien autour de moi pour ne pas me refermer."
+      },
+      {
+        "k": "Fb",
+        "label": "Je repère précisément le mécanisme qui a produit l’erreur."
+      },
+      {
+        "k": "Gt",
+        "label": "Je reviens à un repère simple et fiable pour me recaler."
+      },
+      {
+        "k": "Sp",
+        "label": "Je change d’angle pour ne pas reproduire exactement la même chose."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Un ami proche traverse une période compliquée.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "J’essaie de l’aider à voir au-delà du moment difficile qu’il traverse."
+      },
+      {
+        "k": "Cq",
+        "label": "Je l’aide à identifier une première action utile au lieu de tourner en rond."
+      },
+      {
+        "k": "Bv",
+        "label": "Je prends d’abord le temps d’écouter vraiment ce qu’il ressent."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche à comprendre ce qui s’est réellement passé et ce qui l’affecte."
+      },
+      {
+        "k": "Gt",
+        "label": "Je l’aide à remettre un peu d’ordre dans ce qu’il vit concrètement."
+      },
+      {
+        "k": "Sp",
+        "label": "Je lui propose une respiration différente pour desserrer la pression."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Tu dois choisir entre plusieurs options pour la suite de ton parcours.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Le groupe hésite et personne ne tranche vraiment.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je reformule l’objectif pour que le groupe voie vers quoi il va."
+      },
+      {
+        "k": "Cq",
+        "label": "Je pousse à choisir une option et à la mettre en route."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais de la place à chacun pour éviter qu’un membre décroche."
+      },
+      {
+        "k": "Fb",
+        "label": "Je demande les éléments qui manquent pour décider plus juste."
+      },
+      {
+        "k": "Gt",
+        "label": "Je propose une méthode claire pour trancher sans s’éparpiller."
+      },
+      {
+        "k": "Sp",
+        "label": "J’ouvre une piste que personne n’avait encore envisagée."
+      }
+    ],
+    "mirrorOf": 38
+  },
+  {
+    "id": 9,
+    "text": "Tu arrives dans un nouvel environnement où tu connais peu de monde.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche rapidement à comprendre quelle place ce nouveau contexte peut avoir dans mon parcours."
+      },
+      {
+        "k": "Cq",
+        "label": "Je vais au contact pour prendre ma place sans attendre."
+      },
+      {
+        "k": "Bv",
+        "label": "Je m’intéresse d’abord aux personnes pour créer un climat simple."
+      },
+      {
+        "k": "Fb",
+        "label": "J’observe les codes et les dynamiques avant de trop m’avancer."
+      },
+      {
+        "k": "Gt",
+        "label": "Je repère comment ce groupe fonctionne concrètement."
+      },
+      {
+        "k": "Sp",
+        "label": "Je lance une entrée en relation un peu différente pour casser la glace."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Tu dois apprendre rapidement une nouvelle compétence.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je veux comprendre à quoi cette compétence pourra vraiment me servir."
+      },
+      {
+        "k": "Cq",
+        "label": "Je pratique vite pour entrer dans le concret."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche un format où je puisse apprendre avec ou grâce à d’autres."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par saisir le mécanisme exact de la compétence."
+      },
+      {
+        "k": "Gt",
+        "label": "Je me donne une méthode progressive et régulière."
+      },
+      {
+        "k": "Sp",
+        "label": "Je multiplie les essais pour voir ce qui me convient le mieux."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Tu lances une idée sur les réseaux sociaux et les réactions sont mitigées.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je regarde quel message de fond je veux continuer à porter malgré les réactions."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide rapidement si je corrige, assume ou relance le sujet."
+      },
+      {
+        "k": "Bv",
+        "label": "Je prends en compte l’effet humain de ce que je publie et de ce que je lis."
+      },
+      {
+        "k": "Fb",
+        "label": "J’analyse le type de retours pour distinguer l’utile du bruit."
+      },
+      {
+        "k": "Gt",
+        "label": "Je clarifie ma ligne et mes règles de publication pour la suite."
+      },
+      {
+        "k": "Sp",
+        "label": "Je change le format ou l’angle pour tester autre chose."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Une journée est beaucoup plus chargée que prévu.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je reviens à l’essentiel pour ne pas perdre le sens de ce que je fais."
+      },
+      {
+        "k": "Cq",
+        "label": "Je choisis la première action qui fera baisser la charge réelle."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille à ne pas écraser les autres dans ma propre tension."
+      },
+      {
+        "k": "Fb",
+        "label": "Je trie les informations et les urgences pour ne pas réagir au hasard."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un ordre clair dans la journée."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche une façon plus souple de traverser la charge sans me bloquer."
+      }
+    ],
+    "mirrorOf": 41
+  },
+  {
+    "id": 13,
+    "text": "Ton groupe doit organiser un événement avec peu de temps.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je pose la finalité de l’événement pour orienter les choix."
+      },
+      {
+        "k": "Cq",
+        "label": "Je lance immédiatement les actions qui débloquent l’organisation."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille à ce que chacun sache comment contribuer sans se sentir mis de côté."
+      },
+      {
+        "k": "Fb",
+        "label": "Je vérifie les contraintes concrètes avant de promettre quoi que ce soit."
+      },
+      {
+        "k": "Gt",
+        "label": "Je répartis les rôles et les étapes de manière très claire."
+      },
+      {
+        "k": "Sp",
+        "label": "Je propose un format vivant qui donne envie de s’engager."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Tu sens que ta motivation baisse depuis quelques jours.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me reconnecte à la raison profonde pour laquelle j’ai commencé."
+      },
+      {
+        "k": "Cq",
+        "label": "Je remets du mouvement avec un objectif court et exigeant."
+      },
+      {
+        "k": "Bv",
+        "label": "Je cherche du soutien ou un cadre relationnel qui me relance."
+      },
+      {
+        "k": "Fb",
+        "label": "J’identifie ce qui a objectivement fait baisser mon énergie."
+      },
+      {
+        "k": "Gt",
+        "label": "Je reconstruis une routine simple au lieu d’attendre l’envie."
+      },
+      {
+        "k": "Sp",
+        "label": "Je renouvelle la manière de faire pour retrouver de l’élan."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "On te demande d’aider à résoudre un conflit entre deux personnes.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche l’enjeu de fond qui dépasse le conflit du moment."
+      },
+      {
+        "k": "Cq",
+        "label": "Je pousse à clarifier franchement ce qui bloque."
+      },
+      {
+        "k": "Bv",
+        "label": "Je m’assure que chacun se sente entendu avant de réparer."
+      },
+      {
+        "k": "Fb",
+        "label": "Je distingue les faits, les interprétations et les émotions."
+      },
+      {
+        "k": "Gt",
+        "label": "Je propose un cadre de discussion qui évite de repartir dans tous les sens."
+      },
+      {
+        "k": "Sp",
+        "label": "J’essaie une manière de parler ou de recadrer plus décalée et apaisante."
+      }
+    ],
+    "mirrorOf": 59
+  },
+  {
+    "id": 16,
+    "text": "Tu dois préparer une prise de parole importante.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je travaille le message central que je veux laisser."
+      },
+      {
+        "k": "Cq",
+        "label": "Je m’entraîne à être direct, clair et présent dès l’entrée."
+      },
+      {
+        "k": "Bv",
+        "label": "Je pense à la manière de parler pour créer du lien avec le public."
+      },
+      {
+        "k": "Fb",
+        "label": "Je prépare mes arguments et mes exemples avec précision."
+      },
+      {
+        "k": "Gt",
+        "label": "Je structure mon intervention pour ne pas me perdre."
+      },
+      {
+        "k": "Sp",
+        "label": "Je cherche une façon plus vivante ou plus originale de capter l’attention."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Tu travailles sur un objectif long et les progrès semblent lents.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je me reconnecte à la trajectoire globale plutôt qu’au seul moment de fatigue."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me fixe une étape proche à aller chercher tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je veille à rester soutenu plutôt que de porter seul l’effort."
+      },
+      {
+        "k": "Fb",
+        "label": "Je regarde objectivement ce qui progresse, même lentement."
+      },
+      {
+        "k": "Gt",
+        "label": "Je protège la régularité qui fera la différence à terme."
+      },
+      {
+        "k": "Sp",
+        "label": "Je varie intelligemment la manière de travailler pour durer."
+      }
+    ],
+    "mirrorOf": 57
+  },
+  {
+    "id": 18,
+    "text": "Tu dois collaborer avec quelqu’un qui fonctionne très différemment de toi.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche le point commun de vision qui peut nous aligner."
+      },
+      {
+        "k": "Cq",
+        "label": "Je propose de nous mettre vite en mouvement malgré nos différences."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais l’effort d’ajuster la relation avant de vouloir performer ensemble."
+      },
+      {
+        "k": "Fb",
+        "label": "J’essaie de comprendre précisément son fonctionnement au lieu de le juger trop vite."
+      },
+      {
+        "k": "Gt",
+        "label": "Je mets au clair des règles simples de collaboration."
+      },
+      {
+        "k": "Sp",
+        "label": "Je teste une façon différente de travailler avec cette personne."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Une opportunité intéressante apparaît à la dernière minute.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je regarde ce que cette opportunité peut ouvrir à plus long terme."
+      },
+      {
+        "k": "Cq",
+        "label": "Je décide vite si elle mérite que je me lance."
+      },
+      {
+        "k": "Bv",
+        "label": "Je prends en compte son impact sur mon équilibre et mes liens importants."
+      },
+      {
+        "k": "Fb",
+        "label": "J’évalue les conditions réelles avant de m’emballer."
+      },
+      {
+        "k": "Gt",
+        "label": "Je vérifie ce qu’elle implique concrètement pour mon organisation."
+      },
+      {
+        "k": "Sp",
+        "label": "Je me laisse la possibilité de sortir du cadre habituel."
+      }
+    ],
+    "mirrorOf": 40
+  },
+  {
+    "id": 20,
+    "text": "Tu dois faire un choix rapidement sans avoir toutes les informations.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je choisis l’option qui reste cohérente avec la direction que je poursuis."
+      },
+      {
+        "k": "Cq",
+        "label": "Je préfère avancer avec des données incomplètes plutôt que rester figé."
+      },
+      {
+        "k": "Bv",
+        "label": "Je considère aussi les effets humains de la décision."
+      },
+      {
+        "k": "Fb",
+        "label": "Je cherche l’information la plus décisive avant de choisir."
+      },
+      {
+        "k": "Gt",
+        "label": "Je m’appuie sur mes critères et mes repères plutôt que sur la panique du moment."
+      },
+      {
+        "k": "Sp",
+        "label": "J’accepte l’incertitude comme un espace d’ajustement possible."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Ton équipe a perdu alors que vous vous étiez beaucoup investis.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Tu dois planifier les prochaines semaines pour tenir plusieurs priorités.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Tu participes à une réunion où les idées partent dans tous les sens.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Tu constates qu’un détail important a été négligé.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 46
+  },
+  {
+    "id": 25,
+    "text": "Tu dois remotiver un groupe fatigué.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Tu as une idée nouvelle mais tu ne sais pas encore comment la présenter.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Un imprévu bouscule complètement ce qui était prévu.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 58
+  },
+  {
+    "id": 28,
+    "text": "Tu te compares à quelqu’un qui semble avancer plus vite que toi.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Tu dois gérer une tension entre performance et bien-être.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "On te confie une responsabilité nouvelle.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 50
+  },
+  {
+    "id": 31,
+    "text": "Tu dois préparer un examen oral devant un jury.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Tu participes à une compétition où l’attente avant de jouer est longue.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Tu découvres qu’un travail d’équipe n’est pas au niveau attendu.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 55
+  },
+  {
+    "id": 34,
+    "text": "Tu dois accompagner quelqu’un qui doute beaucoup de lui.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Tu veux progresser mais ta méthode actuelle plafonne.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Tu reçois enfin une bonne nouvelle après beaucoup d’efforts.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Une discussion tourne au malentendu.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Tu dois prendre la tête d’un groupe sur une courte durée.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 8
+  },
+  {
+    "id": 39,
+    "text": "Tu sens qu’une occasion pourrait te faire grandir mais aussi te mettre en difficulté.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Tu es face à un choix entre sécurité et nouveauté.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 19
+  },
+  {
+    "id": 41,
+    "text": "Tu prépares un déplacement important avec beaucoup de paramètres.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 12
+  },
+  {
+    "id": 42,
+    "text": "Tu dois reprendre après une période de baisse d’énergie.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Tu veux convaincre quelqu’un de te suivre dans un projet.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Tu t’ennuies dans une tâche répétitive mais nécessaire.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Tu veux aider un groupe à mieux fonctionner ensemble.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Tu dois faire un point honnête sur ce qui ne marche pas.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 24
+  },
+  {
+    "id": 47,
+    "text": "Tu sens que ton stress monte juste avant un moment clé.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Une personne remet en cause ta manière de faire.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Tu dois prioriser entre plusieurs urgences.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Tu veux installer une nouvelle habitude dans la durée.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 30
+  },
+  {
+    "id": 51,
+    "text": "Ton groupe doit se réorganiser après un changement important.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Tu dois faire face à une consigne floue.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Tu veux transformer une envie en plan réel.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 1
+  },
+  {
+    "id": 54,
+    "text": "Tu dois arbitrer entre loyauté au groupe et exigence de résultat.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Quelqu’un attend de toi une réponse que tu n’as pas encore.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 33
+  },
+  {
+    "id": 56,
+    "text": "Tu dois retrouver de la clarté après une journée confuse.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Tu veux relancer un projet qui s’est essoufflé.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 17
+  },
+  {
+    "id": 58,
+    "text": "Tu dois agir alors que tout n’est pas parfait.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 27
+  },
+  {
+    "id": 59,
+    "text": "Tu accompagnes quelqu’un qui a besoin d’être rassuré.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ],
+    "mirrorOf": 15
+  },
+  {
+    "id": 60,
+    "text": "Tu veux passer d’une idée à une exécution solide.",
+    "options": [
+      {
+        "k": "Vs",
+        "label": "Je cherche d’abord à comprendre ce que cette situation peut changer pour la suite."
+      },
+      {
+        "k": "Cq",
+        "label": "Je me concentre sur l’action la plus utile à lancer tout de suite."
+      },
+      {
+        "k": "Bv",
+        "label": "Je fais attention à l’impact de la situation sur les personnes concernées."
+      },
+      {
+        "k": "Fb",
+        "label": "Je commence par examiner les faits pour éviter une mauvaise lecture."
+      },
+      {
+        "k": "Gt",
+        "label": "Je remets un cadre clair pour que chacun sache comment avancer."
+      },
+      {
+        "k": "Sp",
+        "label": "J’explore une manière différente de gérer la situation."
+      }
+    ]
+  }
+]

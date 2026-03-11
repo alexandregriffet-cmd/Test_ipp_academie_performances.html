@@ -1,30 +1,19 @@
-# IPP A4P – Version 2
+# IPP A4P – Version 3 Premium
 
-Cette version contient :
+## Contenu
+- `index.html` : interface principale
+- `styles.css` : présentation premium, plus claire et proche de la V1
+- `app.js` : moteur du questionnaire, scoring, cohérence, rapport long
+- `questions_ipp_v3.json` : 60 vignettes
+- `profiles_36_ipp_v3.json` : 36 profils mentaux
+- `phase_items_v3.json` : énergie de phase
+- `stress_items_v3.json` : module stress
 
-- `index.html`
-- `app.js`
-- `questions_ipp_18_25_v2.json`
-- `profiles_36_ipp_v2.json`
-- `phase_items_ipp_v2.json`
+## Mise en ligne GitHub Pages
+1. Crée un dépôt GitHub public.
+2. Dépose tous les fichiers **à la racine** du dépôt.
+3. Active **Settings > Pages > Deploy from a branch > main / root**.
+4. Ouvre l’URL fournie par GitHub Pages.
 
-## Points forts de cette version
-
-- 60 vignettes contextualisées
-- 360 propositions rédigées au plus près de la situation
-- 10 paires miroir pour l'indice de cohérence
-- rotation aléatoire des réponses
-- mini-module d'énergie de phase
-- rapport long imprimable
-
-## Mise en ligne sur GitHub Pages
-
-1. Créer un dépôt GitHub public
-2. Envoyer tous les fichiers à la racine
-3. Activer **Settings > Pages > Deploy from a branch > main / root**
-4. Ouvrir l’URL fournie par GitHub Pages
-
-## Important
-
-Cette version est prête pour test terrain et amélioration.  
-Elle n’est pas encore étalonnée psychométriquement sur un échantillon normatif.
+## Remarque
+Cette version est conçue pour des **tests terrain**. Le modèle est structuré et exploitable, mais il n’est pas encore étalonné sur un échantillon normatif.
