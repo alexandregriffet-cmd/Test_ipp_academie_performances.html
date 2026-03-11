@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IPP A4P – Version 2</title>
+  <style>
+    :root{--bg:#f6f8fb;--card:#fff;--ink:#1f2937;--muted:#6b7280;--line:#dbe3ef;--brand:#204d8d;}
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--ink);}
+    .wrap{max-width:980px;margin:0 auto;padding:24px;}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;box-shadow:0 6px 20px rgba(19,42,68,.05);}
+    h1,h2,h3{margin:0 0 12px 0}
+    p{line-height:1.55}
+    .muted{color:var(--muted)}
+    .btn{background:var(--brand);color:#fff;border:none;padding:12px 18px;border-radius:10px;font-weight:700;cursor:pointer}
+    .btn.secondary{background:#eef3fb;color:var(--brand)}
+    .grid{display:grid;gap:12px}
+    .options{margin-top:18px}
+    .option{display:block;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#fff;cursor:pointer}
+    .option:hover{border-color:var(--brand);background:#f8fbff}
+    .topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;gap:16px}
+    .progress{height:10px;background:#e8eef8;border-radius:999px;overflow:hidden}
+    .progress > div{height:100%;background:var(--brand)}
+    .small{font-size:14px}
+    .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:#eef3fb;color:var(--brand);font-weight:700;font-size:13px}
+    .scores{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+    .scoreBox{border:1px solid var(--line);border-radius:12px;padding:12px;background:#fff}
+    canvas{max-width:100%;background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px}
+    .section{margin-top:24px}
+    .page{page-break-after:always;padding-bottom:20px}
+    ul{padding-left:20px}
+    @media print {.no-print{display:none}.card{box-shadow:none;border:none;padding:0}.wrap{max-width:none;padding:0}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div id="app" class="card">
+    <div id="screen-start">
+      <span class="pill">IPP A4P – Version 2</span>
+      <h1>Inventaire des Profils de Performance</h1>
+      <p>Cette version intègre 60 vignettes contextualisées, une rotation aléatoire des réponses, 10 paires miroir pour la cohérence et un mini-module d’énergie de phase.</p>
+      <p class="muted">Ce test est prêt pour un usage terrain et pour des essais sur GitHub. Il ne constitue pas encore un outil psychométriquement étalonné sur un échantillon normatif.</p>
+      <p>Consigne : pour chaque situation, choisis la réaction qui te ressemble le plus naturellement.</p>
+      <button class="btn" id="startBtn">Commencer le test</button>
+    </div>
+    <div id="screen-question" style="display:none">
+      <div class="topbar">
+        <div style="flex:1">
+          <div class="small muted" id="qCount"></div>
+          <div class="progress"><div id="progressBar" style="width:0%"></div></div>
+        </div>
+        <div class="small muted" id="timer"></div>
+      </div>
+      <h2 id="questionText"></h2>
+      <div class="grid options" id="options"></div>
+    </div>
+    <div id="screen-phase" style="display:none">
+      <h2>Énergie de phase</h2>
+      <p>Dernier bloc : indique à quel point chaque affirmation te correspond en ce moment.</p>
+      <div id="phaseWrap"></div>
+      <button class="btn" id="finishPhaseBtn" style="margin-top:16px">Voir mon rapport</button>
+    </div>
+    <div id="screen-report" style="display:none"></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "En ce moment, j’ai surtout besoin de retrouver une direction claire pour la suite.",
+    "k": "Vs"
+  },
+  {
+    "id": 2,
+    "text": "En ce moment, je me sens mieux quand je peux agir vite et voir que ça avance.",
+    "k": "Cq"
+  },
+  {
+    "id": 3,
+    "text": "En ce moment, j’ai surtout besoin de me sentir soutenu et compris.",
+    "k": "Bv"
+  },
+  {
+    "id": 4,
+    "text": "En ce moment, j’ai besoin de comprendre précisément ce qui se passe.",
+    "k": "Fb"
+  },
+  {
+    "id": 5,
+    "text": "En ce moment, j’ai besoin de remettre de l’ordre et des repères stables.",
+    "k": "Gt"
+  },
+  {
+    "id": 6,
+    "text": "En ce moment, j’ai besoin de respirer un peu et de retrouver de la souplesse.",
+    "k": "Sp"
+  },
+  {
+    "id": 7,
+    "text": "Quand la pression monte, je cherche d’abord à retrouver le sens de ce que je fais.",
+    "k": "Vs"
+  },
+  {
+    "id": 8,
+    "text": "Quand la pression monte, j’ai envie de reprendre la main par l’action.",
+    "k": "Cq"
+  },
+  {
+    "id": 9,
+    "text": "Quand la pression monte, j’ai surtout besoin d’un appui humain fiable.",
+    "k": "Bv"
+  },
+  {
+    "id": 10,
+    "text": "Quand la pression monte, je veux d’abord clarifier les faits.",
+    "k": "Fb"
+  },
+  {
+    "id": 11,
+    "text": "Quand la pression monte, je reviens à une routine ou à un cadre connu.",
+    "k": "Gt"
+  },
+  {
+    "id": 12,
+    "text": "Quand la pression monte, j’ai besoin d’essayer une autre façon de faire.",
+    "k": "Sp"
+  }
+]

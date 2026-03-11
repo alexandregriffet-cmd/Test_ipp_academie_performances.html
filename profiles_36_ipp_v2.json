@@ -1,0 +1,1520 @@
+{
+  "Vs_Vs": {
+    "code": "Vs_Vs",
+    "name": "Architecte",
+    "dominant": "Vs",
+    "secondary": "Vs",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Vs_Cq": {
+    "code": "Vs_Cq",
+    "name": "Stratège",
+    "dominant": "Vs",
+    "secondary": "Cq",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation",
+      "décision",
+      "mise en action"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence",
+      "résultat",
+      "défi"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate",
+      "ralentir volontairement 60 secondes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Vs_Bv": {
+    "code": "Vs_Bv",
+    "name": "Inspirateur",
+    "dominant": "Vs",
+    "secondary": "Bv",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation",
+      "écoute",
+      "empathie"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence",
+      "respect",
+      "entraide"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate",
+      "nommer clairement son besoin"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Vs_Fb": {
+    "code": "Vs_Fb",
+    "name": "Analyste stratégique",
+    "dominant": "Vs",
+    "secondary": "Fb",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation",
+      "analyse",
+      "précision"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence",
+      "vérité",
+      "qualité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate",
+      "limiter le temps d’analyse"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Vs_Gt": {
+    "code": "Vs_Gt",
+    "name": "Bâtisseur",
+    "dominant": "Vs",
+    "secondary": "Gt",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation",
+      "organisation",
+      "cadre"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence",
+      "ordre",
+      "responsabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate",
+      "accepter une part d’ajustement"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Vs_Sp": {
+    "code": "Vs_Sp",
+    "name": "Explorateur",
+    "dominant": "Vs",
+    "secondary": "Sp",
+    "dominantLabel": "Visionnaire",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil oriente naturellement l’attention vers la vision, le sens et la direction future. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "vision",
+      "projection",
+      "anticipation",
+      "créativité",
+      "souplesse"
+    ],
+    "values": [
+      "sens",
+      "avenir",
+      "cohérence",
+      "liberté",
+      "nouveauté"
+    ],
+    "stressStages": [
+      "Stress léger : le profil peut idéaliser ou se disperser dans la projection.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil peut pousser trop fort sa direction et négliger le concret"
+    ],
+    "actions": [
+      "revenir à trois priorités concrètes",
+      "relier la vision à une étape immédiate",
+      "fixer une fin claire à l’essai"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Garant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Vs": {
+    "code": "Cq_Vs",
+    "name": "Pionnier",
+    "dominant": "Cq",
+    "secondary": "Vs",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace",
+      "vision",
+      "projection"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès",
+      "sens",
+      "avenir"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer",
+      "revenir à trois priorités concrètes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Cq": {
+    "code": "Cq_Cq",
+    "name": "Performeur",
+    "dominant": "Cq",
+    "secondary": "Cq",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Bv": {
+    "code": "Cq_Bv",
+    "name": "Leader mobilisateur",
+    "dominant": "Cq",
+    "secondary": "Bv",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace",
+      "écoute",
+      "empathie"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès",
+      "respect",
+      "entraide"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer",
+      "nommer clairement son besoin"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Fb": {
+    "code": "Cq_Fb",
+    "name": "Compétiteur méthodique",
+    "dominant": "Cq",
+    "secondary": "Fb",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace",
+      "analyse",
+      "précision"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès",
+      "vérité",
+      "qualité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer",
+      "limiter le temps d’analyse"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Gt": {
+    "code": "Cq_Gt",
+    "name": "Capitaine",
+    "dominant": "Cq",
+    "secondary": "Gt",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace",
+      "organisation",
+      "cadre"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès",
+      "ordre",
+      "responsabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer",
+      "accepter une part d’ajustement"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Cq_Sp": {
+    "code": "Cq_Sp",
+    "name": "Challenger",
+    "dominant": "Cq",
+    "secondary": "Sp",
+    "dominantLabel": "Conquérant",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil fonctionne d’abord par mouvement, décision et passage à l’action. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "décision",
+      "mise en action",
+      "audace",
+      "créativité",
+      "souplesse"
+    ],
+    "values": [
+      "résultat",
+      "défi",
+      "progrès",
+      "liberté",
+      "nouveauté"
+    ],
+    "stressStages": [
+      "Stress léger : le profil accélère et veut reprendre la main immédiatement.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil risque de devenir brusque, pressant ou trop contrôlant"
+    ],
+    "actions": [
+      "ralentir volontairement 60 secondes",
+      "choisir une seule action utile au lieu de tout lancer",
+      "fixer une fin claire à l’essai"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Bienveillant",
+        "Fiable"
+      ]
+    }
+  },
+  "Bv_Vs": {
+    "code": "Bv_Vs",
+    "name": "Guide",
+    "dominant": "Bv",
+    "secondary": "Vs",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien",
+      "vision",
+      "projection"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien",
+      "sens",
+      "avenir"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider",
+      "revenir à trois priorités concrètes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Bv_Cq": {
+    "code": "Bv_Cq",
+    "name": "Protecteur actif",
+    "dominant": "Bv",
+    "secondary": "Cq",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien",
+      "décision",
+      "mise en action"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien",
+      "résultat",
+      "défi"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider",
+      "ralentir volontairement 60 secondes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Bv_Bv": {
+    "code": "Bv_Bv",
+    "name": "Médiateur",
+    "dominant": "Bv",
+    "secondary": "Bv",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Bv_Fb": {
+    "code": "Bv_Fb",
+    "name": "Accompagnant",
+    "dominant": "Bv",
+    "secondary": "Fb",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien",
+      "analyse",
+      "précision"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien",
+      "vérité",
+      "qualité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider",
+      "limiter le temps d’analyse"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Bv_Gt": {
+    "code": "Bv_Gt",
+    "name": "Soutien",
+    "dominant": "Bv",
+    "secondary": "Gt",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien",
+      "organisation",
+      "cadre"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien",
+      "ordre",
+      "responsabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider",
+      "accepter une part d’ajustement"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Bv_Sp": {
+    "code": "Bv_Sp",
+    "name": "Animateur",
+    "dominant": "Bv",
+    "secondary": "Sp",
+    "dominantLabel": "Bienveillant",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil s’appuie d’abord sur la qualité du lien et le soutien humain. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "écoute",
+      "empathie",
+      "soutien",
+      "créativité",
+      "souplesse"
+    ],
+    "values": [
+      "respect",
+      "entraide",
+      "lien",
+      "liberté",
+      "nouveauté"
+    ],
+    "stressStages": [
+      "Stress léger : le profil absorbe beaucoup les émotions autour de lui.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil risque de ne plus poser ses limites ou d’éviter le vrai problème"
+    ],
+    "actions": [
+      "nommer clairement son besoin",
+      "se protéger émotionnellement avant d’aider",
+      "fixer une fin claire à l’essai"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Garant",
+        "Visionnaire"
+      ],
+      "vigilance": [
+        "Conquérant",
+        "Spontané"
+      ]
+    }
+  },
+  "Fb_Vs": {
+    "code": "Fb_Vs",
+    "name": "Chercheur",
+    "dominant": "Fb",
+    "secondary": "Vs",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté",
+      "vision",
+      "projection"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur",
+      "sens",
+      "avenir"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios",
+      "revenir à trois priorités concrètes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Fb_Cq": {
+    "code": "Fb_Cq",
+    "name": "Optimiseur",
+    "dominant": "Fb",
+    "secondary": "Cq",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté",
+      "décision",
+      "mise en action"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur",
+      "résultat",
+      "défi"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios",
+      "ralentir volontairement 60 secondes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Fb_Bv": {
+    "code": "Fb_Bv",
+    "name": "Conseiller",
+    "dominant": "Fb",
+    "secondary": "Bv",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté",
+      "écoute",
+      "empathie"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur",
+      "respect",
+      "entraide"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios",
+      "nommer clairement son besoin"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Fb_Fb": {
+    "code": "Fb_Fb",
+    "name": "Expert",
+    "dominant": "Fb",
+    "secondary": "Fb",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Fb_Gt": {
+    "code": "Fb_Gt",
+    "name": "Ingénieur",
+    "dominant": "Fb",
+    "secondary": "Gt",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté",
+      "organisation",
+      "cadre"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur",
+      "ordre",
+      "responsabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios",
+      "accepter une part d’ajustement"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Fb_Sp": {
+    "code": "Fb_Sp",
+    "name": "Inventeur",
+    "dominant": "Fb",
+    "secondary": "Sp",
+    "dominantLabel": "Fiable",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil traite d’abord les situations par analyse, compréhension et précision. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "analyse",
+      "précision",
+      "clarté",
+      "créativité",
+      "souplesse"
+    ],
+    "values": [
+      "vérité",
+      "qualité",
+      "rigueur",
+      "liberté",
+      "nouveauté"
+    ],
+    "stressStages": [
+      "Stress léger : le profil analyse davantage pour se rassurer.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil risque de se bloquer par excès de vérification"
+    ],
+    "actions": [
+      "limiter le temps d’analyse",
+      "distinguer faits et scénarios",
+      "fixer une fin claire à l’essai"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Garant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Conquérant"
+      ]
+    }
+  },
+  "Gt_Vs": {
+    "code": "Gt_Vs",
+    "name": "Planificateur",
+    "dominant": "Gt",
+    "secondary": "Vs",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité",
+      "vision",
+      "projection"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité",
+      "sens",
+      "avenir"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles",
+      "revenir à trois priorités concrètes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Gt_Cq": {
+    "code": "Gt_Cq",
+    "name": "Coordinateur",
+    "dominant": "Gt",
+    "secondary": "Cq",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité",
+      "décision",
+      "mise en action"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité",
+      "résultat",
+      "défi"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles",
+      "ralentir volontairement 60 secondes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Gt_Bv": {
+    "code": "Gt_Bv",
+    "name": "Protecteur",
+    "dominant": "Gt",
+    "secondary": "Bv",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité",
+      "écoute",
+      "empathie"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité",
+      "respect",
+      "entraide"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles",
+      "nommer clairement son besoin"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Gt_Fb": {
+    "code": "Gt_Fb",
+    "name": "Contrôleur",
+    "dominant": "Gt",
+    "secondary": "Fb",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité",
+      "analyse",
+      "précision"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité",
+      "vérité",
+      "qualité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles",
+      "limiter le temps d’analyse"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Gt_Gt": {
+    "code": "Gt_Gt",
+    "name": "Gardien",
+    "dominant": "Gt",
+    "secondary": "Gt",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Gt_Sp": {
+    "code": "Gt_Sp",
+    "name": "Organisateur créatif",
+    "dominant": "Gt",
+    "secondary": "Sp",
+    "dominantLabel": "Garant",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil cherche spontanément le cadre, l’organisation et la stabilité. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "organisation",
+      "cadre",
+      "fiabilité",
+      "créativité",
+      "souplesse"
+    ],
+    "values": [
+      "ordre",
+      "responsabilité",
+      "stabilité",
+      "liberté",
+      "nouveauté"
+    ],
+    "stressStages": [
+      "Stress léger : le profil resserre le cadre pour retrouver de la sécurité.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil risque de devenir fermé, très normatif ou défensif"
+    ],
+    "actions": [
+      "accepter une part d’ajustement",
+      "revenir à un cadre simple plutôt qu’à trop de règles",
+      "fixer une fin claire à l’essai"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Fiable",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Spontané",
+        "Visionnaire"
+      ]
+    }
+  },
+  "Sp_Vs": {
+    "code": "Sp_Vs",
+    "name": "Innovateur",
+    "dominant": "Sp",
+    "secondary": "Vs",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Visionnaire",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire ajoute de la hauteur de vue et de l’anticipation.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation",
+      "vision",
+      "projection"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration",
+      "sens",
+      "avenir"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle devient impatient si la vision n’est pas suivie.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord",
+      "revenir à trois priorités concrètes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Sp_Cq": {
+    "code": "Sp_Cq",
+    "name": "Aventurier",
+    "dominant": "Sp",
+    "secondary": "Cq",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Conquérant",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire apporte de l’élan, de l’affirmation et de la rapidité.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation",
+      "décision",
+      "mise en action"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration",
+      "résultat",
+      "défi"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle peut se tendre, couper court ou forcer le rythme.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord",
+      "ralentir volontairement 60 secondes"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Sp_Bv": {
+    "code": "Sp_Bv",
+    "name": "Dynamiseur",
+    "dominant": "Sp",
+    "secondary": "Bv",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Bienveillant",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire colore le profil par la relation, l’écoute et la coopération.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation",
+      "écoute",
+      "empathie"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration",
+      "respect",
+      "entraide"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle peut s’oublier pour préserver le lien.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord",
+      "nommer clairement son besoin"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Sp_Fb": {
+    "code": "Sp_Fb",
+    "name": "Expérimentateur",
+    "dominant": "Sp",
+    "secondary": "Fb",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Fiable",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire amène davantage d’analyse, de méthode et de discernement.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation",
+      "analyse",
+      "précision"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration",
+      "vérité",
+      "qualité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle peut surcontrôler les détails et douter.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord",
+      "limiter le temps d’analyse"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Sp_Gt": {
+    "code": "Sp_Gt",
+    "name": "Réinventeur",
+    "dominant": "Sp",
+    "secondary": "Gt",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Garant",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire renforce le besoin de structure, de repères et de tenue.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation",
+      "organisation",
+      "cadre"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration",
+      "ordre",
+      "responsabilité"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle peut rigidifier l’organisation et tolérer moins l’imprévu.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord",
+      "accepter une part d’ajustement"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  },
+  "Sp_Sp": {
+    "code": "Sp_Sp",
+    "name": "Créatif",
+    "dominant": "Sp",
+    "secondary": "Sp",
+    "dominantLabel": "Spontané",
+    "secondaryLabel": "Spontané",
+    "description": "Ce profil avance volontiers par créativité, souplesse et exploration. Le style secondaire ajoute de la nouveauté, de la souplesse et du mouvement.",
+    "strengths": [
+      "créativité",
+      "souplesse",
+      "adaptation"
+    ],
+    "values": [
+      "liberté",
+      "nouveauté",
+      "exploration"
+    ],
+    "stressStages": [
+      "Stress léger : le profil cherche à bouger pour ne pas subir la tension.",
+      "Stress modéré : il/elle peut s’éparpiller ou changer trop vite d’option.",
+      "Stress fort : le profil risque de fuir la contrainte ou d’abandonner avant d’aboutir"
+    ],
+    "actions": [
+      "fixer une fin claire à l’essai",
+      "noter une seule idée à tester d’abord"
+    ],
+    "compatibility": {
+      "compatibles": [
+        "Visionnaire",
+        "Bienveillant"
+      ],
+      "vigilance": [
+        "Garant",
+        "Fiable"
+      ]
+    }
+  }
+}
